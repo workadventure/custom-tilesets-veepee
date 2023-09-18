@@ -1,0 +1,39 @@
+{
+    "collectionName": "Veepee Custom Tiles",
+    "tags": [
+        "Veepee",
+        "Custom"
+    ],
+    "collection": [
+        {
+            "name": "Borne 1",
+            "tags": [
+                "Borne",
+                "Office"
+            ],
+            "imagePath": "Veepee_Custom_Tiles/Borne_1.png",
+            "direction": "Down",
+            "color": "#db6ae8",
+            "collisionGrid": [
+                [ 0 ],
+                [ 1 ]
+            ],
+            "depthOffset": -32
+        },
+        {
+            "name": "Borne 1",
+            "tags": [
+                "Borne",
+                "Office"
+            ],
+            "imagePath": "Veepee_Custom_Tiles/Borne_2.png",
+            "direction": "Down",
+            "color": "#db6ae8",
+            "collisionGrid": [
+                [ 0 ],
+                [ 1 ]
+            ],
+            "depthOffset": -32
+        }
+    ]
+}
